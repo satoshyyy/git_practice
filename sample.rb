@@ -1,2 +1,2 @@
- msa = "Hello World"
+msa = "Hello World"
 puts msg
